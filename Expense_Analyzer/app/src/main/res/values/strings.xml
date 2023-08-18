@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Expense_Analyzer</string>
+    <string name="default_notification_channel_id">notification</string>
+
+    <string-array name="time_periods">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Quarterly</item>
+        <!-- Add more time periods as needed -->
+    </string-array>
+
+</resources>
